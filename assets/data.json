@@ -1,0 +1,15 @@
+{
+    "avatar": "/portfolio/images/avatar/karimbel.jpg",
+    "title": "Karim | Dev",
+    "description": "Bienvenue dans mon espace GitHub, un terrain d'expérimentation où naissent et évoluent mes projets de développement. Ici, le code est vivant, en constante amélioration, avec son lot de bugs et de défis à relever. Explorez, testez, et n'hésitez pas à contribuer ou signaler des idées pour faire avancer ces créations !",
+    "linkedin": "https://www.linkedin.com/in/karimbelkacem/",
+    "projects": [
+        {
+            "preview": "/dev/images/projet/projet1.png",
+            "title": "eLearnopoly",
+            "description": "eLearnopoly est un jeu qui transforme l’apprentissage en aventure amusante et stratégique ! Seul ou à plusieurs, sur mobile, tablette ou ordinateur, ce module de formation en ligne vous fait voyager sur un plateau où chaque case est un défi. Votre objectif ? Gagner des points de compétences tout en boostant vos savoirs pour le titre de Formateur Professionnel pour Adultes. Conçevoir des formations, accompagner des apprenants, et devenir un spécialiste en pédagogie, le tout en vous amusant.",
+            "caracteristique": "Storyline360, JS, HTML5",
+            "link": "https://karimbel.github.io/dev/eLearnopoly/story.html"
+        }
+    ]
+}
